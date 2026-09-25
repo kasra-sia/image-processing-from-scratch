@@ -1,9 +1,15 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.conda/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
 .DS_Store
-# Editor-based HTTP Client requests
-/httpRequests/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+
+# JetBrains
+.idea/

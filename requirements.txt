@@ -1,0 +1,8 @@
+numpy>=2.2
+opencv-python>=4.11
+matplotlib>=3.10
+scipy>=1.15
+scikit-image>=0.25
+scikit-learn>=1.6
+pillow>=11.2
+jupyter
